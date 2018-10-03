@@ -1,1 +1,1 @@
-scratchX extension test ÀúÀå¼Ò
+scratchX extension test
