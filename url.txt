@@ -1,0 +1,4 @@
+http://scratchx.org/?url=https://ascsg21.github.io/random_wait_extension.js
+
+http://scratchx.org/?url=https://ascsg21.github.io/scratchX_test/random_wait_extension.js
+

@@ -1,7 +1,7 @@
 /* Extension demonstrating a blocking command block */
 /* Sayamindu Dasgupta <sayamindu@media.mit.edu>, May 2014 */
 
-new (function() {
+(function() {
     var ext = this;
 
     // Cleanup function when the extension is unloaded
@@ -33,4 +33,4 @@ new (function() {
 
     // Register the extension
     ScratchExtensions.register('Random wait extension', descriptor, ext);
-})();
+}());
